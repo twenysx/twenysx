@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/s5bqgkm.gif" width="200px"/><br>
+  <img src="https://images.steamusercontent.com/ugc/851592876999318309/3DD1676EAEA7498975BBF009033F838231E0A358/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200px"/><br>
   <i>"Push yourself beyond your limits." — Vegeta</i>
 </p>
 
