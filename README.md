@@ -46,7 +46,7 @@
 
 ## General github stats
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%D9%A2%D9%A6&theme=algolia" alt="٢٦ GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%D9%A2%D9%A6&theme=algolia" alt="GitHub Streak" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=26ryxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="٢٦ Github Readme Stats" /></p>
 
