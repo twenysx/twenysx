@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://giphy.com/gifs/fRFNQ4YC5xWPS="70%" alt="Vegeta Dark Blue Banner"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Blcm8xOGttYXBzdWk2cncyNHp6b2hrNjJnMGpscGtqemJ3MXJqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRFNQ4YC5xWPS/giphy.gif="70%" alt="Vegeta Dark Blue Banner"/>
 
 </p>
 
