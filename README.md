@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://tenor.com/view/vegeta-gif-23886908="70%" alt="Vegeta Dark Blue Banner"/>
+<img src="https://media1.tenor.com/m/o6LiUfnXAW0AAAAC/vegeta.gif="70%" alt="Vegeta Dark Blue Banner"/>
 
 </p>
 
