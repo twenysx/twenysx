@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://media1.tenor.com/m/igTFkYByUmUAAAAd/dragon-ball-z-majin-vegeta.gif="70%" alt="Vegeta Dark Blue Banner" width="728" height="90"> />
+<img src="https://media1.tenor.com/m/igTFkYByUmUAAAAd/dragon-ball-z-majin-vegeta.gif="70%" alt="Vegeta Dark Blue Banner" width="1200" height="400"> />
 
 </p>
 
