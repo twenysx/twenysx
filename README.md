@@ -44,20 +44,6 @@
 
 ---
 
-## General github stats
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-
-
-<br/><br/>
-
-<hr/>
-
 
 
 <p align="center">
