@@ -51,12 +51,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-silk.vercel.app?user=26ryxn&theme=holi-theme)](https://git.io/streak-stats)
 
-<div align=center>
-  
- 
-</div>
+
 
 <br/><br/>
 
