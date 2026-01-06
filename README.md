@@ -39,8 +39,9 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: *26ryxn@gmail.com*  
-- 🌍 Portfolio: 
+- 📧 Email: * <a href="mailto:26ryxn@gmail.com">Email Me</a> *  
+- 🌍 Portfolio: <a href="https://twenysx.github.io/" target="_blank" rel="noopener noreferrer">Twenty Six</a>
+
 
 ---
 
